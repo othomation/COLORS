@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+}
+
+article {	display: flex;
+	height: 100vh;
+	width: 100vw;flex-wrap: wrap;
+}
+div {
+	display: inline-block;
+}
+
+body {
+	margin: 0;
+}
+
+body {
+
+	width: 100vw;
+	height: 100vh;
+	
+}
+div {
+	width: 10%;
+	height: 10%;
+	margin: 0;
+}
